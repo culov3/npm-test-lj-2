@@ -1,6 +1,6 @@
 {
     "name": "npm-test-lj-2",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/culov3/npm-test-lj-2.git"
+      "url": "https://github.com/culov3/npm-test-lj-2"
     },
     "author": "",
     "license": "MIT",
